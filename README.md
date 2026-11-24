@@ -24,6 +24,22 @@ reconnaissance, evidence handling and report assembly.
 I hold the HTB Certified Penetration Testing Specialist (CPTS) and the HTB Certified Offensive AI
 Expert (COAE) certifications, and I publish the tools and notes I use in this account.
 
+## Featured Projects
+
+Ordered by relevance to security assessment and reporting work.
+
+| Project | What it is |
+|---|---|
+| **Security Assessment Reports** *(private)* | Seven client-format assessment reports covering web, API, network, Active Directory, IoT firmware and binary analysis, each with CVSS 3.1 scoring, evidence and remediation guidance. Available to reviewers on request. |
+| [BountyHarness](https://github.com/ANKIT48274/BountyHarness) | Agent harness for authorised bug bounty and application security research: scoped tools, skill packages, evidence rules and reporting guidance. |
+| [offensec-ai](https://github.com/ANKIT48274/offensec-ai) | Offensive security automation platform that correlates scan output and produces structured findings and reports. |
+| [autorecon-ai](https://github.com/ANKIT48274/autorecon-ai) | AI-assisted reconnaissance and analysis engine: scanning, service enumeration and report generation. |
+| [ShadowAI](https://github.com/ANKIT48274/shadowai) | AI security assistant that answers security and networking questions across multiple model providers. |
+| [COAE-Practicals](https://github.com/ANKIT48274/COAE-Practicals) | Practical lab notes for the HTB Certified Offensive AI Expert: LLM and AI security testing. |
+| [TailChase VM](https://github.com/ANKIT48274/vulnhub-tailchase) | Boot2Root virtual machine published on VulnHub: enumeration, web exploitation and privilege escalation. |
+| [HMS-Security-Report](https://github.com/ANKIT48274/HMS-Security-Report) | Responsible disclosure of SQL injection, XSS and CSRF in a hospital management system. |
+| [vulnhub-machine-notes](https://github.com/ANKIT48274/vulnhub-machine-notes) | Walkthrough notes for VulnHub machines, written around methodology rather than answers. |
+
 ## Certifications
 
 | Certification | Issuer | Earned | Verify |
@@ -61,18 +77,6 @@ Certified in Cybersecurity candidate.
 **Bug Bounty — HackerOne and Bugcrowd** · Remote · 2025 – Present
 - Tested public web application programmes; submitted validated findings and duplicates.
 - Practised web security testing through PortSwigger Web Security Academy labs.
-
-## Selected Projects
-
-| Project | What it is |
-|---|---|
-| [BountyHarness](https://github.com/ANKIT48274/BountyHarness) | Agent harness for authorised bug bounty and application security research: scoped tools, skill packages, evidence rules and reporting guidance. |
-| [ShadowAI](https://github.com/ANKIT48274/shadowai) | AI security assistant that answers security and networking questions across multiple model providers. |
-| [autorecon-ai](https://github.com/ANKIT48274/autorecon-ai) | AI-assisted reconnaissance and analysis engine: scanning, service enumeration and report generation. |
-| [offensec-ai](https://github.com/ANKIT48274/offensec-ai) | Offensive security automation platform that correlates scan output and produces structured findings. |
-| [TailChase VM](https://github.com/ANKIT48274/-vulnhub-tailchase) | Boot2Root virtual machine published on VulnHub: enumeration, web exploitation and privilege escalation. |
-| [vulnhub-machine-notes](https://github.com/ANKIT48274/vulnhub-machine-notes) | Walkthrough notes for VulnHub machines, written around methodology rather than answers. |
-| [HMS-Security-Report](https://github.com/ANKIT48274/HMS-Security-Report) | Responsible disclosure of SQL injection, XSS and CSRF in a hospital management system. |
 
 ## Skills
 
